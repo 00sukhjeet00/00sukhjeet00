@@ -53,6 +53,9 @@
     <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express JS" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <a href="https://webassembly.org/" target="_blank">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Freklatsmasters%2Fvscode-wasm%2Fmaster%2Fimages%2Fvscode-wasm-logo.png&f=1&nofb=1" alt="Figma" width="40" height="40"/>
+    </a>
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="40" height="40"/>
     </a>
     <a href="https://www.figma.com/" target="_blank">
