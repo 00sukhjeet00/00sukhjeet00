@@ -10,11 +10,49 @@
 
 - 🌱 I’m currently learning **Rust**, **WASM**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- <img src="https://img.icons8.com/color/48/000000/open-source.png" width="15"/> **OpenSource Project** <a href="https://www.npmjs.com/package/@00sukhjeet00/compilerjs">Compiler Js</a>
 
 - 📫 How to reach me **sukhjeet20002@gmail.com**
+## 🚀 Languages, Frameworks and Tools :
 
-## 🚀 Languages and Tools:
+<p align="center"> 
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/javascript.png"> 
+    </a>
+    <a href="http://www.cplusplus.org/" target="_blank"> 
+    <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+    </a>
+</p>
+<p align="center"> 
+    <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React & React Native" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node JS" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"
+    alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+    </a>
+    <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="40" height="40"/>
+    </a>
+    <a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+    </a>
+    <a href="http://expressjs.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express JS" width="40" height="40"/>
+    </a>
+</p>
 <br/>
 
 <p align="center">
