@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Rust**, **WASM**
 
-- <img src="https://img.icons8.com/color/48/000000/open-source.png" width="15"/> **OpenSource Project** <a href="https://www.npmjs.com/package/@00sukhjeet00/compilerjs">Compiler Js</a>
+- <img src="https://img.icons8.com/color/48/000000/open-source.png" width="15"/> **OpenSource Project** <a href="https://www.npmjs.com/package/@00sukhjeet00/compilerjs">Compiler Js</a>, <a href="https://00sukhjeet00.github.io/JPEG_Transcoder_WASM/">JPEG TRANSCODER (WASM)</a>
 
 - 📫 How to reach me **sukhjeet20002@gmail.com**
 ## 🚀 Languages, Frameworks and Tools :
