@@ -26,6 +26,9 @@
     <a href="http://www.cplusplus.org/" target="_blank"> 
     <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
     </a>
+    <a href="https://www.rust-lang.org/" target="_blank"> 
+    <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/50/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-tritone-tal-revivo.png" alt="Rust" width="40" height="40"/>
+    </a>
 </p>
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank">
@@ -58,9 +61,6 @@
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Freklatsmasters%2Fvscode-wasm%2Fmaster%2Fimages%2Fvscode-wasm-logo.png&f=1&nofb=1" alt="Figma" width="40" height="40"/>
     </a>
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" alt="Adobe XD" width="40" height="40"/>
     </a>
 </p>
 <br/>
