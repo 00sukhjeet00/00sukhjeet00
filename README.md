@@ -47,6 +47,9 @@
     <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="40" height="40"/>
     </a>
+    <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/google-firebase-console.png" alt="Firebase" width="40" height="40"/>
+    </a>
     <a href="https://redux.js.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" height="40"/>
     </a>
