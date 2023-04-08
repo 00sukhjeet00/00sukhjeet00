@@ -7,9 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Minor Project (CodeChef Clone)**
-
-- 🌱 I’m currently learning **Rust**, **WASM**
+- 🔭Experienced React/Next Js and React Native Developer with a Passion for Creating Engaging User Experiences
 
 - <img src="https://img.icons8.com/color/48/000000/open-source.png" width="15"/> **OpenSource Project** <a href="https://www.npmjs.com/package/@00sukhjeet00/compilerjs">Compiler Js</a>, <a href="https://00sukhjeet00.github.io/JPEG_Transcoder_WASM/">JPEG TRANSCODER (WASM)</a>
 
